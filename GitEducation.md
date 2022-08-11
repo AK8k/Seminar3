@@ -19,4 +19,5 @@ https://gb.ru/
 
 * git checkout *name*- выбрать ветку 
 * git log -  log:))    
-         
+* git diff - разница наглядно!
+        

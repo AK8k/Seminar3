@@ -1,12 +1,10 @@
 # Work instruction GIT
 
-https://gb.ru/lessons
+**https://gb.ru/lessons**
 
-
+https://gb.ru/
 
 ### Базовые команды git
-
-
 
 *git init* - команда, инициализирующая репозиторий в текущей директории;
 
@@ -17,5 +15,3 @@ https://gb.ru/lessons
 *git branch* -команда, отображающая все ветки;
 
 *git merge branch_name* команда, обьеденяющая текущую ветку с указанной
-
-строка в конфликтной ветке

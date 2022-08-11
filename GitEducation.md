@@ -15,3 +15,8 @@ https://gb.ru/
 *git branch* -команда, отображающая все ветки;
 
 *git merge branch_name* команда, обьеденяющая текущую ветку с указанной
+
+
+* git checkout *name*- выбрать ветку 
+* git log -  log:))    
+         
